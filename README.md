@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yuval Marmur  
+# 👋 Hi, I'm Yuval Marmor  
 
 🎓 B.Sc. Mechanical Engineering (Control Systems, Robotics, and Mechatronics specialization track) @ Ben-Gurion University   
 🤖 Passionate about robotics and AI-driven autonomous systems  
