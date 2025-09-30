@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Yuval Marmur  
 
-🎓 B.Sc. Mechanical Engineering student @ Ben-Gurion University (Control Systems, Mechatronics & Robotics, 2022–2026)  
-🤖 Passionate about robotics, control systems, and AI-driven autonomous systems  
+🎓 B.Sc. Mechanical Engineering (Control Systems, Robotics, and Mechatronics specialization track) @ Ben-Gurion University   
+🤖 Passionate about robotics and AI-driven autonomous systems  
 🔬 Pursuing M.Sc. at Technion TASP (Autonomous Systems & Robotics)  
 
 ---
@@ -49,4 +49,4 @@
 
 ## 🌐 Connect
 - 📧 [Email](mailto:yuval5586871@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com)  <!-- Replace with your actual profile link -->
+- 💼 [LinkedIn](https://www.linkedin.com/in/yuval-marmur-mechanical-engineer)  
