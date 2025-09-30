@@ -7,10 +7,15 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, C++, C, MATLAB/Simulink  
-- **Frameworks & Tools:** ROS/ROS2, OpenCV, NumPy, PyTorch (CVAE), Gazebo, RViz  
-- **Embedded & Hardware:** STM32 (CubeIDE/HAL), Arduino, Raspberry Pi (GPIO, threading, camera)  
-- **Control & Robotics:** PID, LQR, system identification, kinematics & dynamics, motion planning  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
 
 ---
 
