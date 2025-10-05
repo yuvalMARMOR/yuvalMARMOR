@@ -54,4 +54,4 @@
 
 ## 🌐 Connect
 - 📧 [Email](mailto:yuval5586871@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/yuval-marmur-mechanical-engineer)  
+- 💼 [LinkedIn](www.linkedin.com/in/yuval-marmor-robotics-ai)  
