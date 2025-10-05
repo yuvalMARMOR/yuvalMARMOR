@@ -21,11 +21,15 @@
 
 ---
 ## 🔬 Research Focus
-<p style="line-height:1.25; margin-top:4px;">
-• Planning under uncertainty & AI<br>
-• Semantic sensing, localization & mapping (SLAM)<br>
-• 🧠 Member of the <a href="https://anpl-technion.github.io/">Autonomous Navigation and Perception Lab (ANPL)</a> <img src="ANPL.png" alt="ANPL logo" width="40" align="absmiddle" style="position:relative; top:1px; margin-left:8px;"/>
-</p>
+<ul style="list-style-type: disc; margin-top: 4px; margin-bottom: 0; padding-left: 20px; line-height: 1.3;">
+  <li>Planning under uncertainty & AI</li>
+  <li>Semantic sensing, localization & mapping (SLAM)</li>
+  <li style="margin-top: -4px;">
+    🧠 Member of the <a href="https://anpl-technion.github.io/">Autonomous Navigation and Perception Lab (ANPL)</a>
+    <img src="ANPL.png" alt="ANPL logo" width="38" align="absmiddle" style="position:relative; top:2px; margin-left:6px;"/>
+  </li>
+</ul>
+
 
 
 
