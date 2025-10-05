@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Yuval 
 
-🎓 B.Sc. Mechanical Engineering (Control, Robotics, and Mechatronics specialization track) @ Ben-Gurion University   
+🔬 M.Sc. @ Technion, in the Autonomous Systems and Robotics program (TASP).
 🤖 Passionate about robotics and AI-driven autonomous systems  
-🔬 Pursuing M.Sc. at Technion TASP (Autonomous Systems & Robotics)  
+🎓 B.Sc. in Mechanical Engineering, graduate of the Control, Robotics, and Mechatronics specialization track @ Ben-Gurion University   
+
+ 
 
 ---
 
