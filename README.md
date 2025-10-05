@@ -2,7 +2,7 @@
 
 🔬 M.Sc. @ Technion, in the Autonomous Systems and Robotics program (TASP)  
 🤖 Passionate about robotics and AI-driven autonomous systems  
-🎓 B.Sc. in Mechanical Engineering, graduate of the Control, Robotics, and Mechatronics specialization track @ Ben-Gurion University   
+🎓 B.Sc. in Mechanical Engineering, graduate of the Robotics, Control, and Mechatronics specialization track @ Ben-Gurion University   
 
  
 
