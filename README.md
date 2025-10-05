@@ -21,7 +21,7 @@
 
 ## 🚀 Featured Projects
 - **Weapon Zeroing System** *(Private Repository)* - Real-time laser aim calibration on Raspberry Pi  
-  *Python, OpenCV, NumPy, gpiozero* | [Capstone Project – Grade 96]  
+  *Python, OpenCV, NumPy, gpiozero* | [Capstone Project - Grade 96]  
 
 - **Escape Project** - Image processing & route planning in C  
   *C (pointers/structs), BMP I/O, DFS/BFS*  
