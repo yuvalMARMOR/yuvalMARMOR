@@ -20,6 +20,11 @@
 
 
 ---
+### 🔍 Research Focus
+- Planning under uncertainty & AI
+- Semantic sensing, localization & mapping (SLAM)
+- 🔬 Member of the [Autonomous Navigation and Perception Lab (ANPL)](https://anpl.technion.ac.il/) 
+---
 
 ## 🚀 Featured Projects
 - **Weapon Zeroing System** *(Private Repository)* - Real-time laser aim calibration on Raspberry Pi  
@@ -50,8 +55,7 @@
 
 ## 📊 GitHub Stats
 ![Yuval's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuvalMARMOR&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvalMARMOR&layout=compact&theme=tokyonight)  
-[![trophy](https://github-profile-trophy.vercel.app/?username=yuvalMARMOR&theme=tokyonight&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvalMARMOR&layout=compact&theme=tokyonight)
 
 
 ---
