@@ -23,7 +23,7 @@
 ## 🔬 Research Focus
 - Planning under uncertainty & AI  
 - Semantic sensing, localization & mapping (SLAM)  
-- 🧠 Member of the [Autonomous Navigation and Perception Lab (ANPL)](https://anpl-technion.github.io/)
+- 🧠 Member of the [Autonomous Navigation and Perception Lab (ANPL)](https://anpl-technion.github.io/) ![ANPL](anpl.png)
 ---
 
 ## 🚀 Featured Projects
