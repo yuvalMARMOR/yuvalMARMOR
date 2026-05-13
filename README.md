@@ -43,8 +43,11 @@
   *STM32F103, Embedded C, HAL timers/interrupts*  
 
 - **STM32 Propeller Swing Control (LQR)** - Model-matching + LQR reference model  
-  *Embedded C, STM32 HAL, MATLAB/Simulink*  
-
+  *Embedded C, STM32 HAL, MATLAB/Simulink*
+  
+- **Optimal Missile Guidance Using LQG Control** - Stochastic missile-target engagement with optimal feedback control, Riccati solvers, Kalman filtering, Monte Carlo analysis, and animated simulation  
+  *Python, NumPy, Matplotlib, Optimal Control, Stochastic Control*
+  
 - **Control Systems - SRV02 Rotflex** - Position & flexible joint control (PID, LQR, Observer, Z-N)  
   *MATLAB/Simulink*  
 
