@@ -33,31 +33,31 @@
 
 
 ## 🚀 Featured Projects
-- **Weapon Zeroing System** *(Private Repository)* - Real-time laser aim calibration on Raspberry Pi  
+- **Weapon Zeroing System** *(Private Repository)* - Real-time laser aim calibration on Raspberry Pi.
   *Python, OpenCV, NumPy, gpiozero* | [Capstone Project - Grade 96]  
 
 - **Escape Project** - Image processing & route planning in C  
   *C (pointers/structs), BMP I/O, DFS/BFS*  
 
-- **STM32 Autonomous Line Follower** - PID control, obstacle detection & autonomous parking  
+- **STM32 Autonomous Line Follower** - PID control, obstacle detection & autonomous parking.  
   *STM32F103, Embedded C, HAL timers/interrupts*  
 
-- **STM32 Propeller Swing Control (LQR)** - Model-matching + LQR reference model  
+- **STM32 Propeller Swing Control (LQR)** - Model-matching + LQR reference model.  
   *Embedded C, STM32 HAL, MATLAB/Simulink*
   
-- **Optimal Missile Guidance Using LQG Control** - Stochastic guidance project with Riccati-based feedback, Kalman filtering, Monte Carlo analysis, and animated results  
+- **Optimal Missile Guidance Using LQG Control** - Stochastic guidance with Riccati-based feedback, Kalman filtering, Monte Carlo analysis, and animated results.  
   *Python, NumPy, Matplotlib, Optimal Control*
   
-- **Control Systems - SRV02 Rotflex** - Position & flexible joint control (PID, LQR, Observer, Z-N)  
+- **Control Systems - SRV02 Rotflex** - Position & flexible joint control (PID, LQR, Observer, Z-N).  
   *MATLAB/Simulink*  
 
-- **Robotics Control & Planning (4-DOF Arm)** - MATLAB dynamics + Python MPC with learning-based planning  
+- **Robotics Control & Planning (4-DOF Arm)** - MATLAB dynamics + Python MPC with learning-based planning.  
   *MATLAB, Python, PyTorch (CVAE), NumPy*  
 
-- **SCARA 6-DOF Robotic Arm** - FK/IK, Jacobian, workspace & ROS2 simulation (URDF, RViz, Gazebo)  
+- **SCARA 6-DOF Robotic Arm** - FK/IK, Jacobian, workspace & ROS2 simulation (URDF, RViz, Gazebo).  
   *Python, ROS2, Gazebo, RViz*  
 
-- **4-DOF Robotic Arm - Arduino Project** - Servo-based robotic arm with joystick control  
+- **4-DOF Robotic Arm - Arduino Project** - Servo-based robotic arm with joystick control.  
   *Arduino (C++), Servo.h, DC motor driver, joysticks*  
 
 
