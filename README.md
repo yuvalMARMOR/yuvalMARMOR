@@ -23,16 +23,11 @@
 ## 🧭 Interests & Direction
 - <p style="margin-bottom:6px;"> Robotics, AI, and autonomous systems</p>
 - <p style="margin-bottom:6px;"> Planning and decision-making methods under uncertainty</p>
-- <p style="margin-bottom:6px; margin-top:2px;"> Semantic sensing, localization & mapping (SLAM)</p> <p style="margin-top:-4px;">  
+- <p style="margin-bottom:6px;"> Aiming to integrate these methods across the robotics pipeline - from perception, SLAM and state estimation to learning-based components and control</p>
+- <p style="margin-bottom:6px; margin-top:2px;"> Seeking to bridge theoretical foundations and algorithmic methods with safety-aware and reliable behavior in real-world robotic systems and autonomous navigation</p> <p style="margin-top:-4px;">  
 -   Member of the  <a href="https://anpl-technion.github.io/">Autonomous Navigation and Perception Lab (ANPL)</a>  <img src="ANPL.png" alt="ANPL logo" width="38" align="absmiddle" style="position:relative; top:2px; margin-left:6px;"/>
 </p>
 
-
-
-- Robotics, AI, and autonomous systems
-- Planning and decision-making methods under uncertainty
-- Aiming to integrate these methods across the robotics pipeline - from perception, SLAM and state estimation to learning-based components and control
-- Seeking to bridge theoretical foundations and algorithmic methods with safety-aware and reliable behavior in real-world robotic systems and autonomous navigation
 ---
 
 
