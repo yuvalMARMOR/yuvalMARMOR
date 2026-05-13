@@ -20,18 +20,22 @@
 
 
 <!-- 
-## 🔬 Research Focus
-- <p style="margin-bottom:6px;"> Planning under uncertainty & AI</p>
+## 🧭 Interests & Direction
+- <p style="margin-bottom:6px;"> Robotics, AI, and autonomous systems</p>
+- <p style="margin-bottom:6px;"> Planning and decision-making methods under uncertainty</p>
 - <p style="margin-bottom:6px; margin-top:2px;"> Semantic sensing, localization & mapping (SLAM)</p> <p style="margin-top:-4px;">  
 -   Member of the  <a href="https://anpl-technion.github.io/">Autonomous Navigation and Perception Lab (ANPL)</a>  <img src="ANPL.png" alt="ANPL logo" width="38" align="absmiddle" style="position:relative; top:2px; margin-left:6px;"/>
 </p>-->
 
 
 
-
-
-
+- Robotics, AI, and autonomous systems
+- Planning and decision-making methods under uncertainty
+- Aiming to integrate these methods across the robotics pipeline - from perception, SLAM and state estimation to learning-based components and control
+- Seeking to bridge theoretical foundations and algorithmic methods with safety-aware and reliable behavior in real-world robotic systems and autonomous navigation
 ---
+
+
 
 ## 🚀 Featured Projects
 - **Weapon Zeroing System** *(Private Repository)* - Real-time laser aim calibration on Raspberry Pi  
@@ -58,13 +62,6 @@
 - **4-DOF Robotic Arm - Arduino Project** - Servo-based robotic arm with joystick control  
   *Arduino (C++), Servo.h, DC motor driver, joysticks*  
 
----
-
-## 📊 GitHub Stats
-
-![Yuval's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuvalMARMOR&show_icons=true&theme=tokyonight&v=1)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvalMARMOR&layout=compact&theme=tokyonight&v=1)
 
 
 ---
