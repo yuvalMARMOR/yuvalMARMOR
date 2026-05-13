@@ -45,7 +45,7 @@
 - **STM32 Propeller Swing Control (LQR)** - Model-matching + LQR reference model.  
   *Embedded C, STM32 HAL, MATLAB/Simulink*
   
-- **Optimal Missile Guidance Using LQG Control** - Stochastic guidance with Riccati-based feedback, Kalman filtering, Monte Carlo analysis, and animated results.  
+- **Optimal Missile Guidance Using LQG Control** - Stochastic guidance: Riccati-based feedback, Kalman filtering, Monte Carlo analysis, and animated results.  
   *Python, NumPy, Matplotlib, Optimal Control*
   
 - **Control Systems - SRV02 Rotflex** - Position & flexible joint control (PID, LQR, Observer, Z-N).  
