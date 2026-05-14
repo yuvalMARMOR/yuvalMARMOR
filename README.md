@@ -67,12 +67,12 @@
 
 <p>
   <a href="mailto:yuval.marmor@campus.technion.ac.il">
-    <img src="https://cdn.simpleicons.org/gmail/D14836" width="18" align="center" />
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="18" align="center" />
     Email
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/yuval-marmor-robotics-ai/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="18" align="center" />
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="18" align="center" />
     LinkedIn
   </a>
 </p>
