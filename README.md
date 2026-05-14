@@ -64,7 +64,7 @@
 ---
 
 ## 🌐 Connect
-
+<br>
 <p>
   <a href="mailto:yuval.marmor@campus.technion.ac.il">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="18" align="center" />
