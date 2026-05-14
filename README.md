@@ -70,7 +70,7 @@
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="18" align="center" />
     Email
   </a>
-  &nbsp;&nbsp;
+  <br>
   <a href="https://www.linkedin.com/in/yuval-marmor-robotics-ai/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="18" align="center" />
     LinkedIn
