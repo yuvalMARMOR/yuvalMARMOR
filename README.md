@@ -64,5 +64,8 @@
 ---
 
 ## 🌐 Connect
-- 📧 [Email](mailto:yuval5586871@gmail.com)  
-- 💼 [LinkedIn](www.linkedin.com/in/yuval-marmor-robotics-ai)  
+## 🌐 Connect
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuval.marmor@campus.technion.ac.il)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuval-marmor-robotics-ai/) 
