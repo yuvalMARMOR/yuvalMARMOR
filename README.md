@@ -65,11 +65,14 @@
 
 ## 🌐 Connect
 
-## 🌐 Connect
-
-<a href="mailto:yuval.marmor@campus.technion.ac.il">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/yuval-marmor-robotics-ai/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<p>
+  <a href="mailto:yuval.marmor@campus.technion.ac.il">
+    <img src="https://cdn.simpleicons.org/gmail/D14836" width="18" align="center" />
+    Email
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/yuval-marmor-robotics-ai/">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="18" align="center" />
+    LinkedIn
+  </a>
+</p>
