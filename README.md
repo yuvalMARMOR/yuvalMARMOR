@@ -1,12 +1,5 @@
 # 👋 Hi, I'm Yuval 
 
-🔬 M.Sc. @ Technion, in the Autonomous Systems and Robotics program (TASP)<br>
-🤖 Passionate about robotics and AI-driven autonomous systems  
-🎓 B.Sc. in Mechanical Engineering, graduate of the Robotics, Control and Mechatronics specialization track @ Ben-Gurion University   
-
- 
-
----
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
